@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-structure-api", "simple-structure-api.csproj", "{A1180684-2E73-4584-A968-525C3027270D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1180684-2E73-4584-A968-525C3027270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1180684-2E73-4584-A968-525C3027270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1180684-2E73-4584-A968-525C3027270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1180684-2E73-4584-A968-525C3027270D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9B975F-35F9-4187-90D3-F25DB5F5600D}
+	EndGlobalSection
+EndGlobal
